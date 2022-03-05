@@ -32,4 +32,6 @@
 en:
   hello: "Hello world"
   users:
-    first_name: "Name"
+    first_name: Nombres
+    form: 
+      last_name: Apellidos
